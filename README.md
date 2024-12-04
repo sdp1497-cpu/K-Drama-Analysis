@@ -73,7 +73,7 @@ This project leverages **Streamlit** and **Plotly** for creating interactive vis
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/kdrama-analysis.git
+   git clone https://github.com/sdp1497-cpu/K-Drama-Analysis
    ```
 
 3. Add the dataset `top100_kdrama_aug_2023.csv` to the root folder.
